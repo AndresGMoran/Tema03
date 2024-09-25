@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Factorial</string>
+    <string name="instrucciones">Introduce un numero</string>
+    <string name="insert_text">Numero</string>
+    <string name="button_text">Calcular</string>
+</resources>

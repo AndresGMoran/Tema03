@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Piedra, Papel o Tijeras</string>
+    <string name="information_text">Selecciona una de las opciones</string>
+    <string name="win_message">Ganaste!</string>
+</resources>

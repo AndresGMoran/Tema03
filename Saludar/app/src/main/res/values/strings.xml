@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tema3Saludar</string>
+    <string name="titulo">Greeting</string>
+    <string name="first_name">Name</string>
+    <string name="surname">Surnames</string>
+    <string name="button_text">Greet</string>
+</resources>

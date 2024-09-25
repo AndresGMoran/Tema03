@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Heads or Tails</string>
+    <string name="intructions">Take a bet</string>
+    <string name="heads">Heads</string>
+    <string name="tails">Tails</string>
+    <string name="win_message">You win!</string>
+    <string name="lose_message">You lose :(</string>
+</resources>

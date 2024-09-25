@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tema3Saludar</string>
+    <string name="titulo">Saludos</string>
+    <string name="first_name">Nombre</string>
+    <string name="surname">Apellidos</string>
+    <string name="button_text">Saludar</string>
+</resources>

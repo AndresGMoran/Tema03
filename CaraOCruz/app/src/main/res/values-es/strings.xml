@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cara O Cruz</string>
+    <string name="intructions">Haga su apuesta</string>
+    <string name="heads">Cara</string>
+    <string name="tails">Cruz</string>
+    <string name="win_message">Ganaste!</string>
+    <string name="lose_message">Perdiste :(</string>
+</resources>
